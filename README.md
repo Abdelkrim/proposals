@@ -1,4 +1,5 @@
-proposals
-=========
+Proposals for next ICABTechTalks
+================================
 
-Subjects proposals for next Talks
+Simply create an issue in this with your proposal.
+A good title and short description is everything needed. We encourage everyone to comment on those to show interest or appreciation.
